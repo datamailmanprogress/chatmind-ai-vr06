@@ -1,4 +1,4 @@
-# 
+# Intelligent ChatMind téléchargeur. Téléchargez et installez avec installation en un clic et compatible Python — rapide, sécurisé et facile à utiliser.
 
 
 
